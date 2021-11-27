@@ -1,2 +1,4 @@
 this is an a new file 
 .
+hg
+\
